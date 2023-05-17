@@ -4,7 +4,7 @@ teaching: 135
 exercises: 80
 questions:
 - "How do I create a neural network for a regression task?"
-- "How do neural networks learn?"
+- "How does optimization work?"
 - "How do I monitor the training process?"
 - "How do I detect (and avoid) overfitting?"
 - "What are common options to improve the model performance?"
