@@ -45,7 +45,7 @@ affiliations:
    index: 1
  - name: Simula Research Laboratory, Oslo, Norway
    index: 2
- - name: Hochschule Düsseldorf University of Applied Sciences, Düsseldorf, Germany
+ - name: Düsseldorf University of Applied Sciences, Düsseldorf, Germany
    index: 3
  - name: Helmholtz-Zentrum, Dresden-Rossendorf, Germany
    index: 4
@@ -53,9 +53,9 @@ affiliations:
    index: 5
  - name: CSC - IT center for Science, Espoo, Finland
    index: 6
-date: 8 August 2023
-- name: Aalto University, Espoo, Finland
+ - name: Aalto University, Espoo, Finland
    index: 7
+date: 8 August 2023
 bibliography: paper.bib
 
 ---
