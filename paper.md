@@ -29,7 +29,7 @@ authors:
     affiliation: 5
   - name: Samantha Wittke
     orcid: 0000-0002-9625-7235
-    affiliation: 6
+    affiliation: "6,7"
   - name: Djura Smits
     orcid: 0000-0003-4096-0260
     affiliation: 1
@@ -37,6 +37,7 @@ authors:
     orcid: 0000-0002-1409-8358
     affiliation: 1
   - name: Pranav Chandramouli
+    orcid: 0000-0002-7896-2969
     affiliation: 1
 
 affiliations:
@@ -44,14 +45,16 @@ affiliations:
    index: 1
  - name: Simula Research Laboratory, Oslo, Norway
    index: 2
- - name: Hochschule Düsseldorf University of Applied Sciences, Düsseldorf, Germany
+ - name: Düsseldorf University of Applied Sciences, Düsseldorf, Germany
    index: 3
  - name: Helmholtz-Zentrum, Dresden-Rossendorf, Germany
    index: 4
  - name: National Oceanography Centre, Liverpool, Great-Britain
    index: 5
- - name: Aalto University, Helsinki, Finland
+ - name: CSC - IT center for Science, Espoo, Finland
    index: 6
+ - name: Aalto University, Espoo, Finland
+   index: 7
 date: 8 August 2023
 bibliography: paper.bib
 
