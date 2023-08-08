@@ -30,7 +30,7 @@ authors:
     affiliation: 5
   - name: Samantha Wittke
     orcid: 0000-0002-9625-7235
-    affiliation: 6
+    affiliation: "6,7"
   - name: Djura Smits
     orcid: 0000-0003-4096-0260
     affiliation: 1
@@ -51,9 +51,11 @@ affiliations:
    index: 4
  - name: National Oceanography Centre, Liverpool, Great-Britain
    index: 5
- - name: Aalto University, Helsinki, Finland
+ - name: CSC - IT center for Science, Espoo, Finland
    index: 6
 date: 8 August 2023
+- name: Aalto University, Espoo, Finland
+   index: 7
 bibliography: paper.bib
 
 ---
