@@ -340,7 +340,11 @@ We compile the model using the adam optimizer (other optimizers could also be us
 Similar to the penguin classification task, we will use the crossentropy function to calculate the model's loss.
 This loss function is appropriate to use when the data has two or more label classes.
 
-To calculate crossentropy loss for data that has its classes represented by integers (i.e., not one-hot encoded), we use the SparseCategoricalCrossentropy() function:
+Remember that our target class is represented by a single integer, whereas the output of our network has 10 nodes, one for each class.
+We should have actually one-hot encoded the targets!
+Luckily, there is a quick fix to calculate crossentropy loss for data that
+has its classes represented by integers, the SparseCategoricalCrossentropy() loss.
+This is what is often done in practice, because you do not have to worry about one-hot encoding.
 ```python
 def compile_model(model):
     model.compile(optimizer='adam',
