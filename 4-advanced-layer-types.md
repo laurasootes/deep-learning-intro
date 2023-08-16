@@ -396,7 +396,7 @@ plot_history(history, ['loss', 'val_loss'])
 
 It seems that the model is overfitting somewhat, because the validation accuracy and loss stagnates.
 
-## 9. Tune hyperparameters
+## 9. Refine the model
 
 ::: challenge
 ## Network depth
